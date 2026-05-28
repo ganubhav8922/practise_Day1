@@ -2,3 +2,5 @@
 2.LEARN BRANCHING 
 3.PRACTISE MERGE
 4.PUSH REPOSITORY TO GIT HUB 
+5. Practice git restore
+6. Learn git log graph
